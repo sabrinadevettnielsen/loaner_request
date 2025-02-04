@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>3c4da5261b1d4ad0c82acb7b234bcb6a</owner>
+        <policy_name>AutoGen-scope-x_1351340_loaner_r-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-04 07:25:26</sys_created_on>
+        <sys_id>b17e784553235210becf32a0a0490ebf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Loaner Request" source="x_1351340_loaner_r">53787c0553235210becf32a0a0490eac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">53787c0553235210becf32a0a0490eac</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_b17e784553235210becf32a0a0490ebf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-04 07:25:26</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Loaner Request">53787c0553235210becf32a0a0490eac</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+</record_update>
